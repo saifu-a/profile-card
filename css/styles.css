@@ -126,7 +126,7 @@ hr {
 @media (min-width: 1024px) {
   .card {
     width: 100%;
-    margin: auto 39vw;
-    min-height: 50vh;
+    margin: auto 38.7vw;
+    min-height: 52.5vh;
   }
 }
