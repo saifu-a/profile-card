@@ -82,7 +82,7 @@ hr {
   flex-direction: column;
   justify-content: space-between;
 
-  box-shadow: 0 5px 20px hsl(229, 23%, 23%);
+  box-shadow: -40px 50px 40px -44px rgba(0, 0, 0, 0.3);
 }
 
 .profile-pic {
